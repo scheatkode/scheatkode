@@ -23,8 +23,17 @@ jobs:
           output_action: gist
           committer_gist: e6dd6a6b982476c9fed0cfd448357f41
 
+          base: activity, community, repositories
+
           plugin_languages:           yes
           plugin_languages_threshold: 2%
           plugin_languages_limit:     8
+          plugin_languages_indepth:   yes
+          plugin_languages_details:   lines
+
+          plugin_habits:        yes
+          plugin_habits_from:   800
+          plugin_habits_days:   28
+          plugin_habits_charts: yes
 
 # yaml-language-server: https://json.schemastore.org/github-workflow.json
