@@ -19,10 +19,6 @@ jobs:
       - uses: lowlighter/metrics@v3.19
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-
-          output_action: gist
-          committer_gist: e6dd6a6b982476c9fed0cfd448357f41
-
           base: activity, community, repositories
 
           plugin_languages:           yes
