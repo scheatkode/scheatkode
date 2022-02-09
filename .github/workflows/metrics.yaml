@@ -1,0 +1,30 @@
+name: Metrics
+on:
+  # Update metrics daily
+  schedule:
+    - cron: "0 0 * * *"
+
+  # Run workflow manually
+  workflow_dispatch:
+
+  # Run workflow when pushing to main
+  push:
+    branches:
+      - "main"
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3.19
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          output_action: gist
+          committer_gist: e6dd6a6b982476c9fed0cfd448357f41
+
+          plugin_languages:           yes
+          plugin_languages_threshold: 2%
+          plugin_languages_limit:     8
+
+# yaml-language-server: https://json.schemastore.org/github-workflow.json
