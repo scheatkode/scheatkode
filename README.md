@@ -1,4 +1,4 @@
-<h2 align="center">:vulkan_salute: Hey there !</h2>
+<h2 align="center">:vulcan_salute: Hey there !</h2>
 
 I'm scheatkode, a self-taught, software engineering enthusiast  interested  in
 all things computer related ranging from low-level programming to  programming
@@ -11,4 +11,4 @@ administrator by profession at some point. Explains a lot, doesn't it ?
 
 Feel free to have a look around !
 
-<img align="center" src="https://gist.githubusercontent.com/scheatkode/e6dd6a6b982476c9fed0cfd448357f41/raw/dda5e9686449c8da28bbee0ea9eb9f4564257136/github-metrics.svg" />
+<img align="center" src="https://gist.githubusercontent.com/scheatkode/e6dd6a6b982476c9fed0cfd448357f41/raw/607c1a3e6f35ca516c9f59e54ed9e9fd6793ea3d/github-metrics.svg" />
