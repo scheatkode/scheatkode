@@ -1,8 +1,8 @@
 <h2 align="center">:vulcan_salute: Hey there !</h2>
 
-I'm scheatkode, a self-taught, software engineering enthusiast  interested  in
-all things computer related ranging from low-level programming to  programming
-language theory and  design  patterns  and  everything  in  between,  such  as
+I'm scheatkode, a self-taught software engineering  enthusiast  interested  in
+all things computer-related ranging from low-level programming to  programming
+language theory and design patterns as well as everything in between, such  as
 software security, DevOps, networking, and much more.
 
 Sounds like too much ? It's because I've been a programmer, a tinkerer, and an
