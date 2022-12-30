@@ -14,3 +14,5 @@ Feel free to have a look around !
 <p align="center">
    <img alt="Activity metrics" src="/github-metrics.svg" />
 </p>
+
+<p align="center"><tt>:(){ :|:& };:</tt></p>
