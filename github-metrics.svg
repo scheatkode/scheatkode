@@ -396,37 +396,37 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 44.63227314466984%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 44.71515480944119%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">56%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Svelte</span>
-                            <div class="bar" style="width: 18.53347524835128%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 18.421382727405767%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">23%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 6.679397278570832%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.690987393640374%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">8%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SaltStack</span>
-                            <div class="bar" style="width: 5.007513148009016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.016202203499676%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 3.111486768511562%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.116885831957017%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Lua</span>
-                            <div class="bar" style="width: 2.0208281158694383%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.0243346643530615%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.015026296018031557%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.01505236970292476%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
